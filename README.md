@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer who enjoys creating creative designs and working with cutting-edge technology. I enjoy the perfect balance between Design and Development, even if I didn't do so much programming I would be a graphic designer
+I am a software developer who enjoys creating creative designs and working with cutting-edge technology. I enjoy the perfect balance between Design and Development, even if I didn't do so much programming I would be a graphic designer.
 This my website https://moe28.my.id
 
 
