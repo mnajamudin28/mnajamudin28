@@ -18,4 +18,5 @@ Hari ini saya menyelasaikan course menjadi FulLstack Web Development.
 This my Website https://moe28.my.id
 
 
-![FSEFEFWQ](https://user-images.githubusercontent.com/43162722/184276579-058cb6cd-4e63-4cab-9c72-4dd0b1489fc0.png)
+
+![dawdawd](https://user-images.githubusercontent.com/43162722/184276997-b3f65b7c-322b-482a-9a4b-f1d24851f468.png)
